@@ -1,1 +1,1 @@
-This is a simple Python guessing game where you need to guess the missing alphabet system from a given set of options.<br/>The program randomly selects an alphabet system from the provided list and prompts the user to guess it within a limited number of attempts.
+This is a simple Python guessing game where you need to guess<br/>the missing alphabet system from a given set of options.<br/>The program randomly selects an alphabet system from the provided list and prompts the user to guess it within a limited number of attempts.
